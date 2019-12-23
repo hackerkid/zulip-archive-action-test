@@ -7,7 +7,6 @@ jobs:
     steps:
     - name: Checkout
       uses: actions/checkout@v1
-    - uses: ./ # Uses an action in the root directory
     - name: Hello world action step
       id: hello
       uses: hackerkid/zulip-archive-action@master
