@@ -7,11 +7,12 @@ jobs:
     steps:
     - name: Checkout
       uses: actions/checkout@v1
-    - name: Hello world action step
-      id: hello
+    - name: Run archive
+      id: archive
       uses: hackerkid/zulip-archive-action@master
       with:
-        who-to-greet: 'Mona the Octocat'
+        site: ${{ secrets.site }}
+        key: ${{ secrets.key }}
     # Use the output from the `hello` step
     - name: Get the output time
-      run: echo "The time was ${{ steps.hello.outputs.time }}"
+      run: echo "The time was ${{ steps.archive.outputs.time }}"
