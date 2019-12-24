@@ -13,3 +13,4 @@ jobs:
       with:
         site: ${{ secrets.site }}
         key: ${{ secrets.key }}
+        email: ${{ secrets.email }}
