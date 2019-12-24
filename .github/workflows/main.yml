@@ -14,3 +14,4 @@ jobs:
         site: ${{ secrets.site }}
         key: ${{ secrets.key }}
         email: ${{ secrets.email }}
+        github_token: ${{ secrets.GITHUB_TOKEN }}
