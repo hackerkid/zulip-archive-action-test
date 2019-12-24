@@ -2,4 +2,3 @@ Text
 Hello
 Wow
 India
-Japan
