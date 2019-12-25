@@ -10,7 +10,7 @@ title: leanprover-community / mathlib
 email: test@test.com
 description: > # this means to ignore newlines until "baseurl:"
   Test description
-baseurl: "archive" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://zulip-archive-action-test.github.io" # the base hostname & protocol for your site
 
 # Build settings
@@ -29,4 +29,4 @@ keep_files: ["assets"]
 
 # used this for post_excerpt at index_page
 excerpt_separator: <!--description-->
-source: "archive"
+source: ""
