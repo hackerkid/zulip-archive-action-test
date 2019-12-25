@@ -29,4 +29,3 @@ keep_files: ["assets"]
 
 # used this for post_excerpt at index_page
 excerpt_separator: <!--description-->
-source: ""
