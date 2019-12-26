@@ -16,11 +16,11 @@
         },
         "general": {
             "id": 213222,
-            "latest_id": 184124070,
+            "latest_id": 184178176,
             "topic_data": {
                 "archive": {
-                    "latest_date": 1576942789,
-                    "size": 1
+                    "latest_date": 1577205355,
+                    "size": 2
                 },
                 "hello": {
                     "latest_date": 1576582234,
@@ -64,7 +64,7 @@
         },
         "python": {
             "id": 213224,
-            "latest_id": 184098992,
+            "latest_id": 184169811,
             "topic_data": {
                 "f strings": {
                     "latest_date": 1577042116,
@@ -82,6 +82,10 @@
                     "latest_date": 1572700628,
                     "size": 1
                 },
+                "walrus operator": {
+                    "latest_date": 1577194359,
+                    "size": 4
+                },
                 "zulip": {
                     "latest_date": 1576926695,
                     "size": 1
@@ -89,5 +93,5 @@
             }
         }
     },
-    "time": 1577187281.7441766
+    "time": 1577343596.0538163
 }
