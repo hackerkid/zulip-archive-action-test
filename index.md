@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: Zulip Chat Archive
-permalink: archive/index.html
+permalink: /index.html
 ---
 
 ---
@@ -16,4 +16,4 @@ permalink: archive/index.html
 
 * [data structures](217915datastructures/index.html) (2 topics)
 
-<hr><p>Last updated: Dec 26 2019 at 07:04 UTC</p>
+<hr><p>Last updated: Dec 26 2019 at 07:15 UTC</p>
