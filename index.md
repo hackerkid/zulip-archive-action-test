@@ -8,12 +8,12 @@ permalink: /index.html
 
 ## Streams:
 
-* [general](213222general/index.html) (6 topics)
+* [python](213224python/index.html) (7 topics)
 
-* [python](213224python/index.html) (6 topics)
+* [general](213222general/index.html) (6 topics)
 
 * [javascript](217809javascript/index.html) (3 topics)
 
 * [data structures](217915datastructures/index.html) (2 topics)
 
-<hr><p>Last updated: Dec 26 2019 at 07:15 UTC</p>
+<hr><p>Last updated: Dec 27 2019 at 06:33 UTC</p>
